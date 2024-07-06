@@ -1,6 +1,8 @@
 ## 📄 Notes
 ### July 7, 2024
-- I removed all repos from my GitHub to start fresh and don't have messy old projects.
+- I removed all my 48 repos from my GitHub to start fresh and don't have messy old projects.
+
+  If you where using any of them contact me and we sort it out
 
 ## 💼 Skills
 
