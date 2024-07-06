@@ -1,14 +1,3 @@
-# Hi there, I'm Tommy Mathisen 👋
-
-## About Me
-Just another dude looking for cat pictures
-
-## 🔭 Current Projects
-- Will add soon
-
-## 🌱 I'm currently learning
-- Java
-
 ## 💼 Skills
 
 ### Programming Languages
