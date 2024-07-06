@@ -1,5 +1,5 @@
-## 📄 Note
-- Date: July 7, 2024
+## 📄 Notes
+### July 7, 2024
 - I removed all repos from my GitHub to start fresh and don't have messy old projects.
 
 ## 💼 Skills
