@@ -31,9 +31,6 @@ I build tools that make complicated systems easier to understand and repetitive 
   <a href="https://github.com/mathisen99">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=mathisen99&show_icons=true&hide_border=false&count_private=true&rank_icon=github&bg_color=07110B&title_color=A7D46F&text_color=EDF3E8&icon_color=A7D46F&border_color=174D2C&cache_seconds=1800" alt="Tommy's GitHub stats" />
   </a>
-  <a href="https://github.com/mathisen99?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathisen99&layout=compact&hide_border=false&langs_count=8&bg_color=07110B&title_color=A7D46F&text_color=EDF3E8&border_color=174D2C&cache_seconds=1800" alt="Tommy's most-used repository languages" />
-  </a>
 </div>
 
 <div align="center">
