@@ -26,7 +26,7 @@ based     Jomala, Åland
 ![Linux](https://img.shields.io/badge/Linux-07110B?style=flat-square&logo=linux&logoColor=A7D46F)
 ![Go](https://img.shields.io/badge/Go-07110B?style=flat-square&logo=go&logoColor=A7D46F)
 ![TypeScript](https://img.shields.io/badge/TypeScript-07110B?style=flat-square&logo=typescript&logoColor=A7D46F)
-![Astro](https://img.shields.io/badge/Astro-07110B?style=flat-square&logo=astro&logoColor=A7D46F)
+![Python](https://img.shields.io/badge/Python-07110B?style=flat-square&logo=python&logoColor=A7D46F)
 ![Docker](https://img.shields.io/badge/Docker-07110B?style=flat-square&logo=docker&logoColor=A7D46F)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-07110B?style=flat-square&logo=githubactions&logoColor=A7D46F)
 ![Automation](https://img.shields.io/badge/Automation-07110B?style=flat-square&logo=gnubash&logoColor=A7D46F)
