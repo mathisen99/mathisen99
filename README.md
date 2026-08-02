@@ -13,13 +13,7 @@
 
 ## Hey, I'm Tommy
 
-I build practical tools that turn complicated systems and repetitive work into something clear, reliable, and useful. My work lives where **AI**, **Linux**, and **automation** meet—with a soft spot for open source and tools that solve real problems.
-
-```text
-focus     practical AI · Linux systems · developer tooling · automation
-building  reliable tools that remove friction and make complex work feel simple
-based     Jomala, Åland
-```
+I build tools that make complicated systems easier to understand and repetitive work less tedious. Most of what I do sits somewhere between **AI**, **Linux**, and **automation**, with a strong interest in open source and practical solutions that are genuinely useful.
 
 ## The toolbox
 
