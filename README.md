@@ -1,4 +1,4 @@
-<img src="./assets/cat-header.png" width="100%" alt="A charcoal-gray cat resting on a warm, neutral background" />
+<img src="./assets/cat-header-dark.png" width="100%" alt="A subtle slate-gray cat illustration on a dark charcoal background" />
 
 # Tommy Mathisen
 
