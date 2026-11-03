@@ -1,12 +1,6 @@
-<img src="./assets/cat-header-dark.png" width="100%" alt="A subtle slate-gray cat illustration on a dark charcoal background" />
+<img src="./assets/tommy-mathisen-cats-header.png" width="100%" alt="Tommy Mathisen — dark illustrated lettering with cats" />
 
-# Tommy Mathisen
-
-I build tools for Linux, automation, and AI-assisted workflows. I focus on making complex systems easier to work with, reducing repetitive tasks, and keeping software understandable and maintainable.
-
-## Technologies
-
-Go · Python · TypeScript · Linux · Docker · GitHub Actions
+i try to make machine go brrrrr
 
 ## Live sites
 
